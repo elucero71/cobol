@@ -48,7 +48,7 @@
 ? LIST
 *
  EXTENDED-STORAGE SECTION.
-*------------------------
+*----------------------------
 *
 ? LIST
 ?  SOURCE =LBUSR    (USR-WS)
